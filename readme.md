@@ -1,16 +1,6 @@
-# HELLO! 
+# HELLO! I'm Aza 👩‍💻
 
-## 👩‍💻 About Me 🗂️
-
-Software Developer, UX Researcher, and UI Designer | Manila, Philippines
-
----
-
-## 📚 Description 📖
-
-💻 I build web apps with clean UI and thoughtful UX.  
-🧠 I explore AI/ML — from building and evaluating models to applying them in real-world contexts.    
-🎨 I enjoy working on user-centered design and interactive systems — bridging code with creativity.
+Software Developer, UX Researcher, and UI Designer | Manila, Philippines 
 
 ---
 
@@ -37,6 +27,6 @@ Software Developer, UX Researcher, and UI Designer | Manila, Philippines
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | aza.velas@example.com |
+| 📧 Email | almira.zabrina.velasquez@example.com |
 | 🌐 Portfolio | [behance.net/azavelas](https://www.behance.net/) |
 | 💼 LinkedIn | [linkedin.com/in/azavelas](https://www.linkedin.com/) |
