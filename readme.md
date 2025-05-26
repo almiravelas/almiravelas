@@ -1,7 +1,5 @@
 # HELLO! I'm Aza 👩‍💻
 
-Software Developer, UX Researcher, and UI Designer | Manila, Philippines 
-
 ---
 
 ## 🛠️ Tech Stack 💾
@@ -28,5 +26,5 @@ Software Developer, UX Researcher, and UI Designer | Manila, Philippines
 | Platform | Link |
 |----------|------|
 | 📧 Email | almira.zabrina.velasquez@example.com |
-| 🌐 Portfolio | [behance.net/azavelas](https://www.behance.net/) |
-| 💼 LinkedIn | [linkedin.com/in/azavelas](https://www.linkedin.com/) |
+| 🌐 Portfolio | [(https://www.behance.net/)](https://www.behance.net/almiravelasqu) |
+| 💼 LinkedIn | [(https://www.linkedin.com/)](https://www.linkedin.com/in/velasquez-almira/) |
