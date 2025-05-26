@@ -1,16 +1,15 @@
-# aza-velas
+# HELLO! 
 
 ## 👩‍💻 About Me 🗂️
 
-**Almira Zabrina Alyson Q. Velasquez** | Software Developer, UX Researcher, and UI Designer | Manila, Philippines
+Software Developer, UX Researcher, and UI Designer | Manila, Philippines
 
 ---
 
 ## 📚 Description 📖
 
 💻 I build web apps with clean UI and thoughtful UX.  
-🧠 I explore AI/ML — from building and evaluating models to applying them in real-world contexts.  
-🌱 I research sustainable tech solutions aligned with the **UN SDGs**, particularly in **responsible consumption, agriculture**, and **community empowerment**.  
+🧠 I explore AI/ML — from building and evaluating models to applying them in real-world contexts.    
 🎨 I enjoy working on user-centered design and interactive systems — bridging code with creativity.
 
 ---
@@ -41,8 +40,3 @@
 | 📧 Email | aza.velas@example.com |
 | 🌐 Portfolio | [behance.net/azavelas](https://www.behance.net/) |
 | 💼 LinkedIn | [linkedin.com/in/azavelas](https://www.linkedin.com/) |
-| 🧪 Projects | [KapwaKo | ClockWise | AI + SDG Tools] |
-
----
-
-_“Design with empathy. Build with intent. Code for change.”_
