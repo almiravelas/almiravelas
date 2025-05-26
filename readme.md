@@ -1,58 +1,48 @@
-# 👋 Hi, I'm Almira Zabrina Alyson Q. Velasquez
+# aza-velas
 
-🌏 Manila, Philippines | 💻 Software Developer | 🎨 UI/UX Designer | 🔍 UX Researcher
+## 👩‍💻 About Me 🗂️
 
----
-
-## 🚀 About Me
-
-I'm a passionate developer and designer dedicated to building **human-centered digital experiences**. Whether it's writing code, crafting interfaces, or conducting research, I strive to create tools that **solve real-world problems**—especially those aligned with the **Sustainable Development Goals (SDGs)**.
-
-Currently:
-- 🧠 Exploring **Machine Learning** & **AI Agents**
-- 📊 Researching on **alternative protein sources** for sustainable agriculture
-- 🌱 Building apps that promote **community sharing** and **responsible consumption**
+**Almira Zabrina Alyson Q. Velasquez** | Software Developer, UX Researcher, and UI Designer | Manila, Philippines
 
 ---
 
-## 🛠 Tech Stack
+## 📚 Description 📖
 
-- **Languages:** JavaScript, Python, C++, C, HTML, CSS, SQL  
-- **Frameworks & Libraries:** React.js, Tailwind CSS, Node.js, Express.js  
-- **Tools & Platforms:** Figma, Git, GitHub, VS Code, Canva  
-- **Other:** REST APIs, CLI apps, Responsive Web Design, Firebase, AWS (Free Tier)
-
----
-
-## 🧠 Interests
-
-- 🧩 AI/ML project building and evaluation  
-- 🎯 UX case studies and behavioral design  
-- 🌐 Sustainable tech and digital advocacy  
-- 👩‍💻 Hackathons and cross-functional teamwork
+💻 I build web apps with clean UI and thoughtful UX.  
+🧠 I explore AI/ML — from building and evaluating models to applying them in real-world contexts.  
+🌱 I research sustainable tech solutions aligned with the **UN SDGs**, particularly in **responsible consumption, agriculture**, and **community empowerment**.  
+🎨 I enjoy working on user-centered design and interactive systems — bridging code with creativity.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack 💾
 
-- 🔄 **KapwaKo** – A React + Tailwind app that encourages local community sharing (SDG 1, SDG 11)  
-- 🧪 **Thraustochytrid-Based Feed** – A microbiology thesis on alternative protein/lipid for poultry (SDG 2, SDG 12, SDG 14)  
-- 📅 **ClockWise** – Mobile attendance tracking system (UX Prototype)
-
-➡️ Check out my [Behance Portfolio](https://www.behance.net/)  
-➡️ Connect on [LinkedIn](https://www.linkedin.com/) (Insert your link here)
-
----
-
-## 📫 Let's Connect!
-
-If you're interested in **collaborating**, have a **project idea**, or just want to **talk tech/design**, feel free to reach out!
-
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com)  
-- 🌐 Portfolio: [yourwebsite.com](https://)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=flat&logo=data:image/svg+xml;base64,..."/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Let's build meaningful things together.*  
+## 🔗 Links 🧭
 
+| Platform | Link |
+|----------|------|
+| 📧 Email | aza.velas@example.com |
+| 🌐 Portfolio | [behance.net/azavelas](https://www.behance.net/) |
+| 💼 LinkedIn | [linkedin.com/in/azavelas](https://www.linkedin.com/) |
+| 🧪 Projects | [KapwaKo | ClockWise | AI + SDG Tools] |
+
+---
+
+_“Design with empathy. Build with intent. Code for change.”_
